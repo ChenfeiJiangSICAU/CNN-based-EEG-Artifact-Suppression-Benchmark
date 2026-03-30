@@ -225,7 +225,3 @@ It should not be interpreted as a final high-confidence clean EEG reconstruction
 - Add artifact-type conditioning for conditional denoising
 - Expand evaluation with spectral fidelity, cross-subject generalization, and spatial consistency metrics
 - Benchmark against classical EEG denoising approaches such as ICA and ASR
-
-## Short GitHub Description
-
-> A pseudo-supervised single-channel CNN baseline for EEG artifact suppression, combining labeled EEG/EOG/EMG epochs with real BrainVision EEG windows for conservative and interpretable denoising.
